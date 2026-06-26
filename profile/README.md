@@ -42,7 +42,7 @@ ArkKVM
 | **crates/usb_devices** | USB gadget sidecar (arkkvm_usb) within arkkvm-app |
 | **arkkvm-usb-mic** | Virtual microphone audio playback (arkkvm_mic) |
 | **arkkvm-display-app** | On-device small-screen UI (LVGL) for the built-in touchscreen |
-| **arkkvm-app-frontend** | Browser frontend used by both device-local and cloud workflows |
+| [**arkkvm-app-frontend**](https://github.com/arkkvm/arkkvm-app-frontend) | Browser frontend used by both device-local and cloud workflows |
 | **arkkvm-cloud** | Cloud services supporting remote access and device connectivity |
 
 
