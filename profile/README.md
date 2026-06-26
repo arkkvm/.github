@@ -37,13 +37,13 @@ ArkKVM
 ### Repositories
 |Repository|Description|
 |:------------------|:------------------|
-| **arkkvm-system** | ArkKVM OS-Embedded Linux platform (Buildroot, Linux kernel, board support)  |
-| **arkkvm-app** | Main device-side system software running on ArkKVM hardware |
-| **crates/usb_devices** | USB gadget sidecar (arkkvm_usb) within arkkvm-app |
-| **arkkvm-usb-mic** | Virtual microphone audio playback (arkkvm_mic) |
-| **arkkvm-display-app** | On-device small-screen UI (LVGL) for the built-in touchscreen |
+| [**arkkvm-system**](https://github.com/arkkvm/arkkvm-system) | ArkKVM OS-Embedded Linux platform (Buildroot, Linux kernel, board support)  |
+| [**arkkvm-app**](https://github.com/arkkvm/arkkvm-app) | Main device-side system software running on ArkKVM hardware |
+| [**crates/usb_devices**](https://github.com/arkkvm/arkkvm-app/tree/main/crates) | USB gadget sidecar (arkkvm_usb) within arkkvm-app |
+| [**arkkvm-usb-mic**](https://github.com/arkkvm/arkkvm-usb-mic) | Virtual microphone audio playback (arkkvm_mic) |
+| [**arkkvm-display-app**](https://github.com/arkkvm/arkkvm-display-app) | On-device small-screen UI (LVGL) for the built-in touchscreen |
 | [**arkkvm-app-frontend**](https://github.com/arkkvm/arkkvm-app-frontend) | Browser frontend used by both device-local and cloud workflows |
-| **arkkvm-cloud** | Cloud services supporting remote access and device connectivity |
+| [**arkkvm-cloud**](https://github.com/arkkvm/arkkvm-cloud) | Cloud services supporting remote access and device connectivity |
 
 
 
