@@ -16,6 +16,7 @@ We believe users should be able to inspect how their devices work, review securi
 
 ## Project Structure
 The ArkKVM software stack is organized into several repositories:  
+```text
 ArkKVM  
 │  
 ├── ArkKVM OS  
@@ -32,6 +33,7 @@ ArkKVM
 │  
 └── arkkvm-cloud  
     Cloud services
+```
 ### Repositories
 |Repository|Description|
 |:------------------|:------------------|
