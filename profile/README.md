@@ -37,7 +37,7 @@ ArkKVM
 ### Repositories
 |Repository|Description|
 |:------------------|:------------------|
-| **arkkvm-system** | ArkKVM OS |
+| **arkkvm-system** | ArkKVM OS-Embedded Linux platform (Buildroot, Linux kernel, board support)  |
 | **arkkvm-app** | Main device-side system software running on ArkKVM hardware |
 | **crates/usb_devices** | USB gadget sidecar (arkkvm_usb) within arkkvm-app |
 | **arkkvm-usb-mic** | Virtual microphone audio playback (arkkvm_mic) |
