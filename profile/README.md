@@ -103,6 +103,7 @@ Our current priority is delivering reliable software, maintaining product qualit
 ### Development Workflow
 
 GitHub serves as our public source mirror and community collaboration platform.
+
 Our primary development repository is maintained internally. Pull requests are reviewed on GitHub, integrated into our internal development workflow, and synchronized back to GitHub after validation and testing.
 
 As a result, some pull requests may be closed rather than merged directly, even when their changes have been incorporated into the project.
