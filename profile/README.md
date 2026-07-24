@@ -86,6 +86,7 @@ Please refer to the `LICENSE` file and accompanying notices in each repository f
 ⸻
 
 ## Community and Support
+
 ArkKVM is currently maintained by a small engineering team.  
 We welcome:  
 	•	Bug reports  
@@ -98,6 +99,13 @@ Due to limited engineering resources:
 	•	Some repositories may not accept external contributions  
 	•	Project direction and architecture remain managed by the core ArkKVM team  
 Our current priority is delivering reliable software, maintaining product quality, and ensuring long-term support for existing users.
+
+### Development Workflow
+
+GitHub serves as our public source mirror and community collaboration platform.
+Our primary development repository is maintained internally. Pull requests are reviewed on GitHub, integrated into our internal development workflow, and synchronized back to GitHub after validation and testing.
+
+As a result, some pull requests may be closed rather than merged directly, even when their changes have been incorporated into the project.
 
 ⸻
 
