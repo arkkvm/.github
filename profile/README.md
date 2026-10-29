@@ -31,7 +31,7 @@ ArkKVM
 ├── arkkvm-app-frontend  
 │   Browser frontend  
 │  
-└── arkkvm-cloud  
+└── arkkvm-cloud-go  
     Cloud services
 ```
 ### Repositories
@@ -43,7 +43,7 @@ ArkKVM
 | [**arkkvm-usb-mic**](https://github.com/arkkvm/arkkvm-usb-mic) | Virtual microphone audio playback (arkkvm_mic) |
 | [**arkkvm-display-app**](https://github.com/arkkvm/arkkvm-display-app) | On-device small-screen UI (LVGL) for the built-in touchscreen |
 | [**arkkvm-app-frontend**](https://github.com/arkkvm/arkkvm-app-frontend) | Browser frontend used by both device-local and cloud workflows |
-| [**arkkvm-cloud**](https://github.com/arkkvm/arkkvm-cloud) | Cloud services supporting remote access and device connectivity |
+| [**arkkvm-cloud-go**](https://github.com/arkkvm/arkkvm-cloud-go) | Cloud services supporting remote access and device connectivity |
 
 
 
@@ -58,7 +58,7 @@ Currently available:
     •	✅  arkkvm-usb-mic  
 	•	✅  arkkvm-display-app  
 	•	✅  arkkvm-app-frontend  
-	•	✅  arkkvm-cloud  
+	•	✅  arkkvm-cloud-go  
 
 Repository availability may evolve over time as components are prepared for public release.
 
